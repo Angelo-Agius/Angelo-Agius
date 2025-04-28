@@ -73,12 +73,3 @@
 
 ###
 
-<h2 align="left">🐍 Snake</h2>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Angelo-Agius/Angelo-Agius/output/snake.svg" alt="Snake animation" />
-
-###
