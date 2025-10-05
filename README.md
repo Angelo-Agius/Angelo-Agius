@@ -14,8 +14,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Angelo-Agius&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo-Agius&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Angelo-Agius&icon=7&color=0)](https://visitcount.itsvg.in)
-
   ## Buy me a coffe ☕
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/angeloagius) 
